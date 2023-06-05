@@ -46,10 +46,6 @@ plt.sh
 
 ```
 ## Output
-</br>
-</br>
-</br>
-</br>
 
 ![image](https://github.com/santhanalakshmi04/Univariate-Linear-Regression/assets/119475762/d1ad9660-6bcb-47ae-b663-137568938d50)
 
